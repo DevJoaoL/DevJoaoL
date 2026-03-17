@@ -12,7 +12,7 @@
 
 ---
 
-## 🌐 Acesse meu projeto
+## 🌐 Acesse meu portifólio
 
 [![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/Portif-lio/)
 
@@ -51,5 +51,5 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos na pr
 
 ## 📫 Contato
 
-* 💼 LinkedIn: (adicione aqui)
-* 📧 Email: (opcional)
+* 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-luiz-cota-verissimo-28922433b/
+* 📧 Email: jlcotapro2007@gmail.com
