@@ -14,7 +14,7 @@
 
 ## 🌐 Acesse meu projeto
 
-[![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/BlazzorWasmViaCep/)
+[![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/Portif-lio/)
 
 ---
 
@@ -46,12 +46,6 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos na pr
 ## 🌎 Idiomas
 
 🇺🇸 Inglês — Intermediário
-
----
-
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJoaoL\&show_icons=true\&theme=dark)
 
 ---
 
