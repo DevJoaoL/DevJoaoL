@@ -51,5 +51,5 @@ Busco minha primeira oportunidade na área para aplicar meus conhecimentos na pr
 
 ## 📫 Contato
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-luiz-cota-verissimo-28922433b/
+* 💼 LinkedIn: https://www.linkedin.com/in/Joao-luiz-cota-verissimo
 * 📧 Email: jlcotapro2007@gmail.com
