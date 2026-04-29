@@ -14,7 +14,7 @@
 
 ## 🌐 Acesse meu Portifólio
 
-[![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/Portif-lio/)
+[![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/Portifolio/)
 
 ---
 
