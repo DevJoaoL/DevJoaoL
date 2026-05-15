@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o João Luiz!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Técnico+em+Informática;C%23+%7C+.NET+%7C+Blazor;Futuro+Desenvolvedor" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Técnico+em+Informática;Futuro+Desenvolvedor" />
 </p>
 
 ---
