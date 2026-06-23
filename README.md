@@ -1,8 +1,10 @@
-# Olá, eu sou o João Luiz 👋
+<div align="center">
 
-💻 Estudante de Ciência da Computação (FUMEC) | Técnico em Informática (COTEMIG)
-🎯 Foco em desenvolvimento Front-End e fundamentos de back-end com C#/.NET
-🚀 Buscando estágio na área de tecnologia
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B6FE0,100:8B4FE8&height=200&section=header&text=Jo%C3%A3o%20Luiz&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=A85FE0&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(FUMEC);Desenvolvimento+Front-End+%7C+HTML+%2F+CSS+%2F+JS+%2F+C%23;Aberto+a+est%C3%A1gio+em+Tecnologia" /></a>
+
+</div>
 
 ---
 
@@ -46,13 +48,11 @@ Página web desenvolvida em HTML/CSS, com estruturação de layout e estilizaç�
 
 ---
 
-### 📊 GitHub Stats
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevJoaoL&show_icons=true&theme=dark&hide_title=true)
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Joao-luiz-cota-verissimo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlcotapro2007@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=DevJoaoL&color=8B4FE8&style=flat" alt="Visitantes do perfil" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B4FE8,100:3B6FE0&height=100&section=footer" />
