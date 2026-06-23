@@ -1,55 +1,58 @@
-# 👋 Olá, eu sou o João Luiz!
+# Olá, eu sou o João Luiz 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Técnico+em+Informática;Futuro+Desenvolvedor" />
-</p>
-
----
-
-💻 Técnico em Informática pelo COTEMIG
-🎓 Estudante de Ciência da Computação na Universidade FUMEC
-🚀 Apaixonado por tecnologia, desenvolvimento e soluções digitais
+💻 Estudante de Ciência da Computação (FUMEC) | Técnico em Informática (COTEMIG)
+🎯 Foco em desenvolvimento Front-End e fundamentos de back-end com C#/.NET
+🚀 Buscando estágio na área de tecnologia
 
 ---
 
-## 🌐 Acesse meu Portifólio
+### 🌐 Portfólio
 
-[![Acessar Site](https://img.shields.io/badge/🌐%20Acessar%20Projeto-Online-blue?style=for-the-badge)](https://devjoaol.github.io/Portifolio/)
-
----
-
-## 🎯 Sobre mim
-
-Sou um profissional focado em tecnologia, com interesse em desenvolvimento de sistemas, suporte técnico e criação de soluções digitais voltadas para a experiência do usuário.
-
-Busco minha primeira oportunidade na área para aplicar meus conhecimentos na prática e contribuir com soluções eficientes e inovadoras.
+[![Acessar Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-2DD4A7?style=for-the-badge)](https://devjoaol.github.io/Portifolio/)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge\&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge\&logo=mysql)
-
----
-
-## 📚 Formação
-
-🎓 Técnico em Informática — COTEMIG
-🎓 Ciência da Computação — Universidade FUMEC (em andamento)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌎 Idiomas
+### 📌 Projetos em destaque
 
-🇺🇸 Inglês — Intermediário
+**[Consulta de CEP — Blazor WebAssembly](https://github.com/DevJoaoL/blazzor-viacep)**
+Aplicação em Blazor WebAssembly (.NET 8) para consulta de endereços via CEP, com deploy publicado no GitHub Pages.
+
+**[Portfólio pessoal](https://github.com/DevJoaoL/Portifolio)**
+Site pessoal com apresentação de projetos e informações de contato.
+
+**[Elit Photo](https://github.com/DevJoaoL/Elit_Photo)**
+Página web desenvolvida em HTML/CSS, com estruturação de layout e estilização de componentes.
 
 ---
 
-## 📫 Contato
+### 📚 Formação
 
-* 💼 LinkedIn: https://www.linkedin.com/in/Joao-luiz-cota-verissimo
-* 📧 Email: jlcotapro2007@gmail.com
+- 🎓 Ciência da Computação — Universidade FUMEC *(em andamento)*
+- 🎓 Técnico em Informática — Colégio e Faculdade COTEMIG
+- 🌎 Inglês — UPTIME Comunicação em Inglês *(em andamento)*
+
+---
+
+### 📊 GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DevJoaoL&show_icons=true&theme=dark&hide_title=true)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Joao-luiz-cota-verissimo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jlcotapro2007@gmail.com)
